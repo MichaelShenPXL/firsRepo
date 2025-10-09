@@ -1,2 +1,6 @@
 Console.Writeline("yo mama");
-console;
+
+int bruh Console.Readline
+
+console.writeline($"your name is{bruh}");
+
